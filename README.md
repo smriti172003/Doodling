@@ -1,5 +1,5 @@
 The output looks like whatever digit the person is trying to write/generate the machine is able to recogine it:
-
+   
 ![image](https://github.com/smriti172003/Doodling/assets/110845365/1df89894-2324-4d9b-b597-21b4ae394e40)
 
 The Accuracy comes out to be 99.26% :
